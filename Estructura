@@ -1,0 +1,5 @@
+voilaprueba/
+├── pruebavoila.ipynb
+├── requirements.txt   # con las dependencias filtradas
+└── README.md          # opcional, explica cómo correrlo
+
